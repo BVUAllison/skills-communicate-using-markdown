@@ -9,3 +9,7 @@
 //SQL
 select top 100 * from namemaster where id_num = 333333;
 ```
+### Here are the next things to do: 
+- [x] Get some money
+- [ ] Hire a samurai
+- [ ] Extract revenge on my enemies
